@@ -1,7 +1,7 @@
 # Rachel Chong's Brainstation Capstone - U.S. Accidents
 
 ### Project Overview
-**Problem Area:** My area of interest lies in leveraging data science and machine learning to improve road safety and mitigate accidents. Within this domain, there are numerous challenges to address, including identifying accident hotspots, predicting accidents in real-time, understanding the causative factors contributing to accidents, and studying the impact of various environmental stimuli on accident occurrence.
+**Problem Area:** My area of interest lies in leveraging data science and machine learning to improve road safety and mitigate car accidents. Within this domain, there are numerous challenges to address, including identifying accident hotspots, predicting accidents in real-time, understanding the causative factors contributing to accidents, and studying the impact of various environmental stimuli on accident occurrence.
 
 **The User:** The individuals affected by these problems span a wide spectrum, including commuters, law enforcement agencies, emergency services, city planners, and insurance companies. Commuters would benefit from reduced accident risks and improved travel times. Law enforcement and emergency services would gain insights for better resource allocation and response strategies. City planners could use the outcomes to design safer roads, and insurance companies could refine their risk assessment models.
 
