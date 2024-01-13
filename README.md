@@ -14,6 +14,8 @@ In this repository, there is an notebook and presentation. Include specific file
 ### Dataset
 The "US-Accidents" dataset covering 49 states in the USA from February 2016 to March 2023, containing approximately 7.7 million accident records, is a comprehensive resource for this project. This dataset encompasses various aspects of accidents, including location, severity, weather conditions, time of day, and more, sourced from multiple entities such as transportation departments, law enforcement, cameras, and sensors. Additionally, supplementary datasets like weather records, road network information, and traffic patterns could complement the analysis and enrich the predictive models.
 
+**Link to dataset:** https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data 
+
 Beyond this dataset, complementary sources such as the National Highway Traffic Safety Administration (NHTSA) Crash Report database or state-specific accident records could further enhance the understanding of accident patterns and contributing factors, offering a more holistic approach to the project.
 
 The "US-Accidents" dataset covers accidents across the USA in detail. It includes accident IDs, severity levels, timestamps, GPS coordinates, road length affected, weather data (temperature, humidity, precipitation), and descriptions. Additionally, it notes nearby Points of Interest (POIs) like crossings, traffic signals, and weather conditions categorized by twilight phases and day/night periods. This detailed information allows for a multidimensional analysis to understand accident contexts, aiding predictive modeling and road safety initiatives.
