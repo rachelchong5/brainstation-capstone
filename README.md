@@ -1,7 +1,7 @@
 # Rachel Chong's Brainstation Capstone - U.S. Accidents
 
 In this repository, you will find:
-1. Jupyter Notebook called **Sprint-1-Rachel-Chong** which includes the data cleaning and EDA.
+1. Jupyter Notebook called **Sprint-1-Rachel-Chong** which includes data cleaning and EDA.
 2. Presentation called **Sprint 1 - Rachel Chong** which introduces the project by addressing topics related to the problem statement, overview of tackling the problem, introduction of dataset, next steps, and more.
 
 ### Project Overview
