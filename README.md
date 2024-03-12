@@ -77,3 +77,12 @@ The following table describes the data attributes:
 ### Dataset References
 1. Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 2. Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+
+### Project Organization
+- Notebooks
+  - Contains all notebooks involved in the project
+- Presentation
+  - Contains all presentations invovled in the project
+- README.md
+  - Project landing page
+  
