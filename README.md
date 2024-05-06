@@ -4,9 +4,11 @@ In this repository, you will find:
 1. Jupyter Notebooks called:
   - **Sprint-1-Rachel-Chong** includes data cleaning and EDA.
   - **Sprint-2-Rachel-Chong** includes more granular EDA, baseline model, and evaluation metrics.
+  - **Sprint-2-Rachel-Chong-FINAL** includes granular EDA, different models, and evaluation metrics.
 2. Presentations called:
 -  **Sprint 1 - Rachel Chong** introduces the project by addressing topics related to the problem statement, overview of tackling the problem, introduction of dataset, next steps, and more.
--  **Sprint 2 Presentation - Rachel Chong** is the latest presentation version of the project that addresses topics related to the problem statement, overview of tackling the problem, EDA, next steps, and more.
+-  **Sprint 2 Presentation - Rachel Chong** is the version of the project that addresses topics related to the problem statement, overview of tackling the problem, EDA, next steps, and more.
+-  **Sprint 3 - Rachel Chong** is the latest presentation version.
 
 ### Project Overview
 **Problem Area:** My area of interest lies in leveraging data science and machine learning to improve road safety and mitigate car accidents. Within this domain, there are numerous challenges to address, including identifying accident hotspots, predicting accidents in real-time, understanding the causative factors contributing to accidents, and studying the impact of various environmental stimuli on accident occurrence.
