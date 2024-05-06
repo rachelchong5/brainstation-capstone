@@ -4,7 +4,7 @@ In this repository, you will find:
 1. Jupyter Notebooks called:
   - **Sprint-1-Rachel-Chong** includes data cleaning and EDA.
   - **Sprint-2-Rachel-Chong** includes more granular EDA, baseline model, and evaluation metrics.
-  - **Sprint-2-Rachel-Chong-FINAL** includes granular EDA, different models, and evaluation metrics.
+  - **Sprint-3-Rachel-Chong-FINAL** includes granular EDA, different models, and evaluation metrics.
 2. Presentations called:
 -  **Sprint 1 - Rachel Chong** introduces the project by addressing topics related to the problem statement, overview of tackling the problem, introduction of dataset, next steps, and more.
 -  **Sprint 2 Presentation - Rachel Chong** is the version of the project that addresses topics related to the problem statement, overview of tackling the problem, EDA, next steps, and more.
